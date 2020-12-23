@@ -3,6 +3,7 @@
 I am a freelance data scientist and open source developer. You can most easily contact me via email at datascience@telenczuk.pl
 
 🏠 Personal webpage: https://datascience.telenczuk.pl
+
 ✍️ Blog: https://datascience.telenczuk.pl/blog
 
 #### Projects
