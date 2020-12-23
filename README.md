@@ -5,7 +5,7 @@ I am a freelance data scientist and open source developer. You can most easily c
 🏠 Personal webpage: https://datascience.telenczuk.pl
 ✍️ Blog: https://datascience.telenczuk.pl/blog
 
-### Projects
+#### Projects
 
 I maintain and develop a few projects here on Github:
 
