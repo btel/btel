@@ -10,9 +10,9 @@ I am a freelance data scientist and open source developer. You can most easily c
 
 I maintain and develop a few projects here on Github:
 
-* btel/svg_utils (maintainer): library to process SVG files
-* scikit-learn/scikit-lear (contributor): machine learning library
-* mamba-org/quetz: open-source conda package repository
+* [btel/svg_utils](https://github.com/btel/svg_utils) (maintainer): library to process SVG files
+* [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) (contributor): machine learning library
+* [mamba-org/quetz](https://github.com/mamba-org/quetz] (contributor): open-source conda package repository
 
 #### Skills
 
