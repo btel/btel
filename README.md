@@ -27,7 +27,7 @@ I maintain and develop a few projects here on Github:
 
 I am also a devoted teacher and mentor. If you want to organise a course or looking for someone to help with your Python / data science skills, please do not hesitate to contact me.
 
-<a rel="me" href="https://mastodon.social/@btel">mastodon</a>
+<a rel="me" href="https://mastodon.social/@btel"></a>
 <!--
 **btel/btel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
